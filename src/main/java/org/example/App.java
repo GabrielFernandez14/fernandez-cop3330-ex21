@@ -15,6 +15,7 @@ public class App
     {
         // Initialize variables
         String month = "";
+        // I could use a boolean instead, but I don't wanna
         int flag = 0;
 
         // Prompt user for their input and store as an int
